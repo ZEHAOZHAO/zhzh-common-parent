@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/zhzh-common-controller/zhzh-common-controller.iml" filepath="$PROJECT_DIR$/zhzh-common-controller/zhzh-common-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhzh-common-parent.iml" filepath="$PROJECT_DIR$/zhzh-common-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhzh-common-start/zhzh-common-start.iml" filepath="$PROJECT_DIR$/zhzh-common-start/zhzh-common-start.iml" />
     </modules>

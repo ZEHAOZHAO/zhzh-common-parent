@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="zhzh-common-controller" />
         <module name="zhzh-common-start" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="zhzh-common-controller" target="1.8" />
       <module name="zhzh-common-parent" target="1.8" />
       <module name="zhzh-common-start" target="1.8" />
     </bytecodeTargetLevel>
