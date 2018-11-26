@@ -17,6 +17,7 @@
         <module>zhzh-common-controller</module>
         <module>zhzh-common-rabbitmq-producer</module>
         <module>zhzh-common-rabbitmq-consumer</module>
+        <module>zhzh_spring_security</module>
     </modules>
 
     <name>zhzh-common-parent</name>

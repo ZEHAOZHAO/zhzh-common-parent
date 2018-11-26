@@ -9,6 +9,7 @@
         <module name="zhzh-common-rabbitmq" />
         <module name="zhzh-common-rabbitmq-consumer" />
         <module name="zhzh-common-start" />
+        <module name="zhzh_spring_security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="zhzh-common-rabbitmq" target="1.8" />
       <module name="zhzh-common-rabbitmq-consumer" target="1.8" />
       <module name="zhzh-common-start" target="1.8" />
+      <module name="zhzh_spring_security" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
